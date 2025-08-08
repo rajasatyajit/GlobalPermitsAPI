@@ -1,0 +1,14 @@
+# CODEOWNERS for security-related components
+# Adjust the paths and team handles to match your repository structure and org.
+
+# Default owners (optional)
+# *       @org/engineering-leads
+
+# Security-sensitive areas
+internal/middleware/auth/*    @org/security-team @org/platform-team
+internal/secrets/*            @org/security-team @org/platform-team
+cmd/*/secrets/*               @org/security-team @org/platform-team
+helm/**                       @org/platform-team
+k8s/**                        @org/platform-team
+.github/workflows/**          @org/platform-team @org/security-team
+
