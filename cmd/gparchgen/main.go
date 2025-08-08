@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/satyajitxyz/globalpermits-archgen/internal/generator"
+	"github.com/rajasatyajit/GlobalPermitsAPI/internal/generator"
 )
 
 func main() {

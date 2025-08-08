@@ -1,4 +1,4 @@
-module github.com/satyajitxyz/globalpermits-archgen
+module github.com/rajasatyajit/GlobalPermitsAPI
 
 go 1.22.5
 

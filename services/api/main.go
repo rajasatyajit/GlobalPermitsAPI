@@ -10,7 +10,7 @@ import (
 
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/satyajitxyz/globalpermits-archgen/services/api"
+	"github.com/rajasatyajit/GlobalPermitsAPI/services/api"
 )
 
 func main() {
