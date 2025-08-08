@@ -1,0 +1,21 @@
+# Default values for globalpermits.
+image:
+  repository: globalpermits/api
+  tag: dev
+  pullPolicy: IfNotPresent
+
+postgres:
+  image: postgis/postgis:16-3.4
+  db: globalpermits
+  user: globalpermits
+  password: globalpermits
+  storage: 10Gi
+
+redis:
+  image: redis:7-alpine
+
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 8080
+

@@ -1,0 +1,3 @@
+id,source_slug,source_id,source_url,permit_type,title,description,issuing_entity,start_date,end_date,location_str,lon,lat,geocode_confidence,status,artifact_key,hash
+00000000-0000-0000-0000-000000000002,sample-city,,https://sample.gov/permits/detour-001,ROAD_CLOSURE,Detour on 3rd Ave,Detour due to construction,Sample City DOT,2025-09-10,2025-09-15,"3rd Ave between Pine and Oak, Sample City",-122.403,37.787,0.88,active,raw/seed/sample-city/detour-001.html,sha256:fixture-002
+

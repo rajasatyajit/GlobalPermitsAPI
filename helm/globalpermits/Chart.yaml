@@ -1,0 +1,6 @@
+apiVersion: v2
+name: globalpermits
+description: Helm chart for GlobalPermits API, Postgres/PostGIS, and Redis
+version: 0.1.0
+appVersion: 0.1.0
+
