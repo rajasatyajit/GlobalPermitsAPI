@@ -1,0 +1,21 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "source_slug": "sample-city",
+    "source_url": "https://sample.gov/permits/road-closure-789",
+    "permit_type": "ROAD_CLOSURE",
+    "title": "Utility work on Pine St",
+    "description": "Underground utility maintenance",
+    "issuing_entity": "Sample City Utilities",
+    "start_date": "2025-09-01",
+    "end_date": "2025-09-03",
+    "location_str": "Pine St near 5th Ave, Sample City",
+    "lon": -122.401,
+    "lat": 37.788,
+    "geocode_confidence": 0.9,
+    "status": "active",
+    "artifact_key": "raw/seed/sample-city/utility-789.html",
+    "hash": "sha256:fixture-789"
+  }
+]
+
